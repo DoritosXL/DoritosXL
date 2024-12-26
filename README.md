@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DoritosXL
 - 👀 I’m interested in ... React and SwiftUI
-- 🌱 I’m currently learning ... Nextjs
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Remix
 <!--- 📫 How to reach me ... Feel free to contact me via my [portfolio](https://hakanportfol.io)
 
 <!---
