@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DoritosXL
-- 👀 I’m interested in ... React and SwiftUI
-- 🌱 I’m currently learning ... Remix
+- 👀 I’m interested in Frontend and AI integrations 
+- 🌱 I’m currently learning React Router
 <!--- 📫 How to reach me ... Feel free to contact me via my [portfolio](https://hakanportfol.io)
 
 <!---
